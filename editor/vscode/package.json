@@ -99,7 +99,7 @@
     "test": "npm run compile && node ./node_modules/vscode/bin/test"
   },
   "dependencies": {
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.5",
     "download": "^7.0.0"
   },
   "devDependencies": {
